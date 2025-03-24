@@ -1,5 +1,6 @@
 # 💫 About Me:
 Aspiring Front-end developer and UI/UX designer
+Studying Information Technology at Technological Institute of the Philippines
 
 
 # 💻 Tech Stack:

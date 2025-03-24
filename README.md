@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🐰 About Me:
 🐇Aspiring Front-end developer and UI/UX designer<br><br>💻Studying Information Technology at Technological Philippines<br><br>🍓Skills:<br>3D Modelling<br>UI/UX design<br>Graphic Design<br>HTML/CSS/JS
 
 
